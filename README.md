@@ -29,7 +29,7 @@ For example:
 
 Note: more types of content can be added in the future.
 
-### 3) Types of content:
+#### 3) Types of content:
 
 This list of contents is just a draft, some can be deleted or more can be added.
 
